@@ -26,9 +26,9 @@ Para executar o projeto localmente, siga as instruções abaixo:
 
 3. Execute a aplicação
 
-**Certifique-se de configurar corretamente as credenciais de e-mail no arquivo ``application.properties`` do Spring Boot.**
+4. Certifique-se de configurar corretamente as credenciais de e-mail no arquivo ``application.properties`` do Spring Boot.
 
-- O microserviço de envio de e-mail estará em execução e pronto para receber solicitações de envio de e-mails.
+**- O microserviço de envio de e-mail estará em execução e pronto para receber solicitações de envio de e-mails.**
 
 ## Contribuição👥
 Contribuições para o aprimoramento deste microserviço são bem-vindas. Sinta-se à vontade para enviar pull requests e relatar problemas.
