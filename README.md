@@ -1,7 +1,7 @@
 # Microserviço de Envio de E-mail💻📧
 Este projeto consiste em um microserviço de envio de e-mails. 
 
-## Tecnologias 
+## Tecnologias🛠️
 - Java 
 - Spring Boot
 - Web Maven 
